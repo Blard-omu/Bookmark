@@ -1,0 +1,15 @@
+ul{
+  display: flex;
+}
+
+.nav-link{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-item>a{
+  text-decoration: none;
+  padding-right: 2rem;
+  color: rgba(0, 0, 11, 0.593);
+}
